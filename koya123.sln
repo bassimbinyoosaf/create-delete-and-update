@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "koya123", "koya123\koya123.vbproj", "{623C3EB5-04F3-48B7-A0B2-6C2FBE55B148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{623C3EB5-04F3-48B7-A0B2-6C2FBE55B148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623C3EB5-04F3-48B7-A0B2-6C2FBE55B148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623C3EB5-04F3-48B7-A0B2-6C2FBE55B148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623C3EB5-04F3-48B7-A0B2-6C2FBE55B148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {566B0CCD-A716-455A-B7D2-9094FBA264FC}
+	EndGlobalSection
+EndGlobal
